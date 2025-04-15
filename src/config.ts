@@ -57,6 +57,16 @@ export const profileConfig: ProfileConfig = {
 	bio: "Hey, Secret here, welcome to my blog! I document my personal life here, among other things. It's my brain in text form essentially!",
 	links: [
 		{
+			name: "YouTube",
+			icon: "fa6-brands:youtube",
+			url: "https://www.youtube.com/@ItzASecretBoi",
+		},
+		{
+			name: "Twitch",
+			icon: "fa6-brands:twitch",
+			url: "https://www.youtube.com/@ItzASecretBoi",
+		},
+		{
 			name: "Bluesky",
 			icon: "ri:bluesky-fill", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
@@ -64,24 +74,9 @@ export const profileConfig: ProfileConfig = {
 			url: "https://bsky.app/profile/itzasecretboi.bsky.social",
 		},
 		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://steamcommunity.com/id/itzasecretboi",
-		},
-		{
 			name: "Newgrounds",
 			icon: "game-icons:tank",
 			url: "https://itzasecretboi.newgrounds.com/",
-		},
-		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/ItzASecretBoi",
-		},
-		{
-			name: "YouTube",
-			icon: "fa6-brands:youtube",
-			url: "https://www.youtube.com/@ItzASecretBoi",
 		},
 	],
 };
