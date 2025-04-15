@@ -54,14 +54,14 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "ItzASecretBoi",
-	bio: "Hey, Secret here, I'm aiming to be a jack of all trades, I make things.",
+	bio: "Hey, Secret here, welcome to my blog! I document my personal life here, among other things. It's my brain in text form essentially!",
 	links: [
 		{
-			name: "Twitter",
+			name: "Bluesky",
 			icon: "ri:bluesky-fill", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "https://bsky.app/profile/itzasecretboi.bsky.social",
 		},
 		{
 			name: "Steam",
@@ -69,9 +69,19 @@ export const profileConfig: ProfileConfig = {
 			url: "https://steamcommunity.com/id/itzasecretboi",
 		},
 		{
+			name: "Newgrounds",
+			icon: "game-icons:tank",
+			url: "https://itzasecretboi.newgrounds.com/",
+		},
+		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/ItzASecretBoi",
+		},
+		{
+			name: "YouTube",
+			icon: "fa6-brands:youtube",
+			url: "https://www.youtube.com/@ItzASecretBoi",
 		},
 	],
 };
