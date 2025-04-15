@@ -27,6 +27,16 @@ And speaking of my auntie, along with all this other drama I've listed, it kinda
 
 It's sad because I've genuinely known this dude for over 10 years, and done **everything** for him, yet he still acts like this, despite all the time we've spent together, and all the gifts I've given with no expectation of him returning the favor. Why? I dunno. I think he's just either going through his teenage rebellious phase, or he just genuinely is incapable of conceptualizing human empathy. 
 
-He even told me about some time he laughed at someone who got litterally shot **WITH A REAL GUN** in the ass at his school, and was wondering why some girl was pissed at him. Which while I can see why you **might** think thats funny, especially if your into dark humor.. But just the way he went about it was wrong. He eventually came to the conclusion that she was just wrong, and had no sense of humor or something like that. And I told him if I was her, i'd probally think he was an asshole too. I guess the signs were just always there lol. Oh well, **I'll let all the bridges burn**, **and then try and cross the river** I guess.
+He even told me about some time he laughed at someone who got litterally shot **WITH A REAL GUN** in the ass at his school, and was wondering why some girl was pissed at him. Which while I can see why you **might** think thats funny, especially if your into dark humor.. But just the way he went about it was wrong. He eventually came to the conclusion that she was just wrong, and had no sense of humor or something like that. And I told him if I was her, I'd probally think he was an asshole too. I guess the signs were just always there lol. Oh well, **I'll let all the bridges burn**, **and then try and cross the river** I guess.
+
+## So what have you learned?
+
+I guess I've learned that, blood doesn't exuse toxicity, and that you absolutely **have** to be serious about your boundaries. Never, **ever**, let someone make you uncomfortable, tell you your making a big deal out of something, or otherwise invalidate your feelings in any way. Because at the end of the day, 99% of the time your feelings are valid, and **nobody** will protect your mental like you do.
+
+If someone is constantly bickering with you, pissing you off & disrespecting you, even if they don't think they are, it's time to distance from them as much as possible; family or not.
+
+This has been Secret, keeping his peace & keeping it a secret, and signing out.
+
+**Thanks for reading... <3**
 
 
