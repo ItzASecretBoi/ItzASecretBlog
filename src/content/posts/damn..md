@@ -12,7 +12,7 @@ lang: ''
 ## Growing up sucks...
 It's been a whole 19 years since I was born, and quite frankly, I've realized that growing up, sucks. Like really bad. 
 
-I've become isolated from the world in a way honestly & I **really** hate to be dramatic in any way but it's honestly getting **really** bad. I practically never leave my house, no drivers license, no job, broke 24/7. I always kid around and tell myself i'm a "Spongebob ass n*gga" lol. Because just like him, despite being a grown ass adult, I still haven't gotten my boating license.
+I've become isolated from the world in a way honestly & I **really** hate to be dramatic in any way but it's honestly getting **really** bad. I practically never leave my house, no drivers license, no job, no **BITCHES**, and I'm broke 24/7. I always kid around and tell myself i'm a "Spongebob ass n*gga" lol. Because just like him, despite being a grown ass adult, I still haven't gotten my boating license.
 
 ## Why can't you get your driving license? 
 
