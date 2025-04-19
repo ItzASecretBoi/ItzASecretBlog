@@ -3,7 +3,7 @@ title: Moving Forward
 published: 2025-04-19
 description: 'Clearing my head, making plans, and streaming again.'
 image: ''
-tags: []
+tags: [Life]
 category: 'Life'
 draft: false 
 lang: ''
