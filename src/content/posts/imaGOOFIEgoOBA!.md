@@ -4,7 +4,7 @@ published: 2025-04-19
 description: 'Clearing my head, making plans, and streaming again.'
 image: ''
 tags: []
-category: ''
+category: 'Life'
 draft: false 
 lang: ''
 ---
