@@ -2,7 +2,7 @@
 title: Moving Forward
 published: 2025-04-19
 description: 'Clearing my head, making plans, and streaming again.'
-image: ''
+image: 'https://media1.tenor.com/m/4hgLFtGX1lYAAAAd/explain-plan.gif'
 tags: [Life]
 category: 'Life'
 draft: false 

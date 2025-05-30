@@ -2,7 +2,7 @@
 title: The Beginning
 published: 2025-04-15
 description: 'Thoughts on growing up, dealing with toxicity, and keeping my peace.'
-image: ''
+image: 'https://media1.tenor.com/m/dOxDJ6LVDnkAAAAC/denzel-crocker-time-lapse.gif'
 tags: [Life, Landmark]
 category: 'Life'
 draft: false 
